@@ -1,0 +1,5 @@
+1;Mich;Kal;mika@gmail.com;Koty;Ogro;20;Polska;324.897.5432.17.11.77
+2;Tom;Gol;tomgo@wp.pl;Strzybnica;Szkolna;13/2;Polska;12
+3;Krzysztof;Nowy;nowy333@wp.pl;Katowice;Katowicka;7;Polska;5431
+7;Martosz;Szef;szef69@gmail.ru;Strzybnica;Hussarska;10;Polska;32
+5;Ania;Szef;szefito666@wp.pl;Bobro;Wniki;666;Niebo;7
